@@ -24,7 +24,10 @@ For the inplementation I rely on
 
 - Truffle (version 4.1.14) 
 
-as a development environment to support the migration and testing of the code after having too many issues with a current version of truffle.
+as a development environment to support the migration and testing of the code after having too many issues with a current version of truffle. The pother versions are 
+
+- Web3 (version 6.14.8)
+- Node (version 14.15.1)
 
 ## General Write-Up
 
